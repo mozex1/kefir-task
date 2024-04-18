@@ -1,6 +1,7 @@
 {
     "name": "technical_task",
     "version": "0.1.0",
+    "homepage": "https://mozex1.github.io/kefir-task",
     "private": true,
     "scripts": {
         "start": "react-scripts start",
